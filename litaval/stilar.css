@@ -15,7 +15,7 @@ body {
 	align-items: center;
 	align-content: center;
 }
-.sumar h1 {
+.vetur h1 {
 	font-size: 5em;
 	color: #ffa;
 }
@@ -24,10 +24,6 @@ body {
 }
 .vor {
 	display: none;
-}
-.vetur {
-	color: red;
-	border: red, 2px, solid;
 }
 .sumar {
 	display: none;
